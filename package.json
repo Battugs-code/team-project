@@ -9,6 +9,8 @@
   "type": "module",
   "name": "team",
   "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
